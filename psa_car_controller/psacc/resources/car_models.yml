@@ -661,3 +661,10 @@
   fuel_capacity: 52
   abrp_name:
   reg: VR3FPHNSTP.*
+- !ElecModel
+  name: Combo-e Life
+  battery_power: 50
+  fuel_capacity: 0
+  abrp_name: opel:comboe:22:50
+  reg: W0VEZZKXZP.*
+  max_elec_consumption: 45 
