@@ -805,7 +805,7 @@
   battery_power: 50.5
   fuel_capacity: 0
   abrp_name: opel:astrae:22:54:tour
-  reg: VXKFNZKW0R 
+  reg: VXKFNZKWZP 
   max_elec_consumption: 70
 - !ElecModel
   name: E-C4 54 kWh
